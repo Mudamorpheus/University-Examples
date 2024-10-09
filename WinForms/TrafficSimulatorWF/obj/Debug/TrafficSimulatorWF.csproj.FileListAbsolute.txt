@@ -1,0 +1,10 @@
+C:\Users\Professional\Desktop\Диплом\Программа\TrafficSimulatorWF\bin\Debug\TrafficSimulatorWF.exe.config
+C:\Users\Professional\Desktop\Диплом\Программа\TrafficSimulatorWF\bin\Debug\TrafficSimulatorWF.exe
+C:\Users\Professional\Desktop\Диплом\Программа\TrafficSimulatorWF\bin\Debug\TrafficSimulatorWF.pdb
+C:\Users\Professional\Desktop\Диплом\Программа\TrafficSimulatorWF\obj\Debug\TrafficSimulatorWF.csprojAssemblyReference.cache
+C:\Users\Professional\Desktop\Диплом\Программа\TrafficSimulatorWF\obj\Debug\TrafficSimulatorWF.TrafficSimulatorForm.resources
+C:\Users\Professional\Desktop\Диплом\Программа\TrafficSimulatorWF\obj\Debug\TrafficSimulatorWF.Properties.Resources.resources
+C:\Users\Professional\Desktop\Диплом\Программа\TrafficSimulatorWF\obj\Debug\TrafficSimulatorWF.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\Диплом\Программа\TrafficSimulatorWF\obj\Debug\TrafficSimulatorWF.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\Диплом\Программа\TrafficSimulatorWF\obj\Debug\TrafficSimulatorWF.exe
+C:\Users\Professional\Desktop\Диплом\Программа\TrafficSimulatorWF\obj\Debug\TrafficSimulatorWF.pdb
