@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Figure\Figure.cs" />
+    <Compile Remove="Figure\IFigure.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Proxy\" />
+  </ItemGroup>
+
+</Project>

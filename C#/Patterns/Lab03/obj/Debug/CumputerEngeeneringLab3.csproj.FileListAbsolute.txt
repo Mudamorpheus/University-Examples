@@ -1,0 +1,14 @@
+C:\Users\ПК\source\repos\CumputerEngeeneringLab3\obj\Debug\CumputerEngeeneringLab3.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\CumputerEngeeneringLab3\obj\Debug\CumputerEngeeneringLab3.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\CumputerEngeeneringLab3\bin\Debug\CumputerEngeeneringLab3.exe.config
+C:\Users\ПК\source\repos\CumputerEngeeneringLab3\bin\Debug\CumputerEngeeneringLab3.exe
+C:\Users\ПК\source\repos\CumputerEngeeneringLab3\bin\Debug\CumputerEngeeneringLab3.pdb
+C:\Users\ПК\source\repos\CumputerEngeeneringLab3\obj\Debug\CumputerEngeeneringLab3.exe
+C:\Users\ПК\source\repos\CumputerEngeeneringLab3\obj\Debug\CumputerEngeeneringLab3.pdb
+C:\Users\Никита Пестов\source\repos\lab3M\obj\Debug\CumputerEngeeneringLab3.csprojAssemblyReference.cache
+C:\Users\Никита Пестов\source\repos\lab3M\obj\Debug\CumputerEngeeneringLab3.csproj.CoreCompileInputs.cache
+C:\Users\Никита Пестов\source\repos\lab3M\obj\Debug\CumputerEngeeneringLab3.exe
+C:\Users\Никита Пестов\source\repos\lab3M\obj\Debug\CumputerEngeeneringLab3.pdb
+C:\Users\Никита Пестов\source\repos\lab3M\bin\Debug\CumputerEngeeneringLab3.exe.config
+C:\Users\Никита Пестов\source\repos\lab3M\bin\Debug\CumputerEngeeneringLab3.exe
+C:\Users\Никита Пестов\source\repos\lab3M\bin\Debug\CumputerEngeeneringLab3.pdb
